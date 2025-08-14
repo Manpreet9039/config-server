@@ -1,1 +1,2 @@
+shop.message=this is shop service now
 spring.datasource.url=jdbc:h2:mem:shopDB
